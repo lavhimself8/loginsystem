@@ -1,6 +1,6 @@
-# StylishLogin - A Modern PHP Login System
+# LoginSystem - A Modern PHP Login System
 
-Welcome to StylishLogin, your stylish and secure PHP-based login system designed to authenticate users and protect access to your application. With a sleek interface built using Bootstrap and robust backend functionality powered by PHP and MySQL, StylishLogin offers a seamless login experience for your users.
+Welcome to Loginsystem,stylish and secure PHP-based login system designed to authenticate users and protect access to your application. With a sleek interface built using Bootstrap and robust backend functionality powered by PHP and MySQL, StylishLogin offers a seamless login experience for your users.
 
 ## Features
 
@@ -18,7 +18,7 @@ Welcome to StylishLogin, your stylish and secure PHP-based login system designed
 
 ## Getting Started
 
-To start using StylishLogin in your project, follow these steps:
+To start using Loginsystem in your project, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Set up a MySQL database using the provided schema.
@@ -40,7 +40,7 @@ To start using StylishLogin in your project, follow these steps:
 
 ## Contributing
 
-Contributions to StylishLogin are welcome! Whether it's fixing bugs, adding new features, or improving documentation, every contribution helps make StylishLogin better. Feel free to fork the repository, make your changes, and submit a pull request.
+Contributions to Loginsystem are welcome! Whether it's fixing bugs, adding new features, or improving documentation, every contribution helps make StylishLogin better. Feel free to fork the repository, make your changes, and submit a pull request.
 
 ## Support
 
